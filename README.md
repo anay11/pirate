@@ -1,1 +1,1 @@
-# pirate
+# project-C22-template
